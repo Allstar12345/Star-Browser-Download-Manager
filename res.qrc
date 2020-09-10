@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AllstarDownloadManager/BottomToolBar.qml</file>
+        <file>qml/AllstarDownloadManager/main.qml</file>
+        <file>qml/AllstarDownloadManager/MainPage.qml</file>
+        <file>qml/AllstarDownloadManager/CloseWarningDialog.qml</file>
+    </qresource>
+</RCC>
