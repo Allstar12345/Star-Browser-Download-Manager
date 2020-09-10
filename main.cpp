@@ -1,3 +1,7 @@
+
+//Copyright (C) 2020 Allstar Software (Paul Wallace)
+
+
 #include <QtGui/QApplication>
 #include "qmlapplicationviewer.h"
 #include <QDeclarativeProperty>

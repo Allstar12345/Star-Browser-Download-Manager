@@ -1,3 +1,6 @@
+/**
+Copyright (C) 2020 Allstar Software (Paul Wallace)
+*/
 import QtQuick 1.1
 import com.nokia.symbian 1.1
 

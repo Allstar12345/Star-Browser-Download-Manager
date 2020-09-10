@@ -1,3 +1,6 @@
+//Copyright (C) 2020 Allstar Software (Paul Wallace)
+
+
 #include "qtdownload.h"
 #include <QCoreApplication>
 #include <QUrl>
